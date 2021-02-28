@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Piny-Lyo.github.io</id>
     <title>Piny&apos;s Blog</title>
-    <updated>2021-02-28T11:33:06.661Z</updated>
+    <updated>2021-02-28T11:40:26.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Piny-Lyo.github.io"/>
     <link rel="self" href="https://Piny-Lyo.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://Piny-Lyo.github.io/images/avatar.png</logo>
     <icon>https://Piny-Lyo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Piny&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea 远程连接、同步失败问题]]></title>
+        <id>https://Piny-Lyo.github.io/post/gridea-problems/</id>
+        <link href="https://Piny-Lyo.github.io/post/gridea-problems/">
+        </link>
+        <updated>2021-02-28T11:36:28.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markdown ** 星号加粗失败原因]]></title>
         <id>https://Piny-Lyo.github.io/post/markdown-star/</id>
